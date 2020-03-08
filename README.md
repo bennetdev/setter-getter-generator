@@ -10,3 +10,6 @@ The Programm will append setter and getter of all object variables to every .jav
 
 # Step 3:
 Open the .java-files and you can now see the generated getter and setter
+
+# ATTENTION
+The Generator overwrites all content of your .java-files in the line of the last closing-curly-bracket and following.
